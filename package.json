@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-js",
+  "version": "1.0.0",
+  "description": "Algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince89arora/algorithms-js.git"
+  },
+  "author": "Prince Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince89arora/algorithms-js/issues"
+  },
+  "homepage": "https://github.com/prince89arora/algorithms-js#readme"
+}
