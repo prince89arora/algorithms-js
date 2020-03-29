@@ -1,6 +1,10 @@
 let inputArray = [2,3,4,5,6,7,8,9,12,34,56,78];
 let finalIndex = -1;
 
+/**
+ * 
+ * @param {number} x Element to search
+ */
 const search = ( x ) => {
     returnIndex( x, 0, (inputArray.length - 1) );
     console.log(finalIndex);
